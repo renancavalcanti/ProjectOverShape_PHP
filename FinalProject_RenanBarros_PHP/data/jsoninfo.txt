@@ -1,0 +1,21 @@
+["Phelmet4b","Ben","Masvidal","Montr\u00e9al","","49.99","2","99.98","12.05","112.03"]
+["Pgloves675","Justin","Legault","Qu\u00e9bec","10 % rebate","22.49","1","22.49","2.71","25.20"]
+["P3d34","Renan","Barros","Recife","Ship by Post Canada","127.82","9","1150.38","138.62","1289.00"]
+["Pmoto56","Camila","Mayer","Toronto","","87.9","5","439.50","52.96","492.46"]
+["PHover12","Jean","Fran\u00e7ois","Queb\u00e9c","","76.29","8","610.32","73.54","683.86"]
+["P5666","Daniel","Carvalho","BH","","87.82","5","439.10","52.91","492.01"]
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null

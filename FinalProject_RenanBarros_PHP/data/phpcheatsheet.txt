@@ -1,0 +1,49 @@
+Review WEB CLIENT:
+
+X - All the systems
+A - Apache
+M - MySQL/MariaDB
+P - PHP
+P - Perl
+
+ChekSum - Validate the file integrity
+SHA1
+SHA256
+SHA512 - the best method of checkSUm
+MDB
+
+What is the difference and install XAMPP and Install Apache from website?
+- The difference is the configuration. Apache from website is safer, Apache from XAMPP is entirely opened.
+
+http://www.jf.com:456/Proj3/index.php?mode=print&q=test
+protocol = http
+domain name = www.jf.com
+port: 456 -> security port is 443 (encrypted)
+folder: Proj3
+file:index.php
+mode and q: parameters
+
+200 OK
+304 Not Modified
+404 Page not Found
+
+TO access your own computer:
+localhost or 127.0.0.1
+
+Searching for code sources:
+1 - Official doc PHP.net
+2 - Real Websites
+3 - Blogs
+
+mb_strlen -> String size avoiding acents
+/r/n = 13 and 10
+
+$_ENV -> Environment variables
+
+Never store or show before filter $_POST and $_GET
+
+Read file:
+fopen(file name, kind of opening)
+use while(!feof($file)) to run up the file
+use fgets($file) to read each line of the file
+
